@@ -1,9 +1,9 @@
 J!API
 ====
 
-Test API for Joomla, only basic tags are supported at this stage
+REST API for Joomla 2.5.x / 3.x
 
-This API use SlimFramework : http://www.slimframework.com
+This REST API use SlimFramework : http://www.slimframework.com
 
 ### Usage
 Upload the all the content at the root of a Joomla 3 website
@@ -64,4 +64,4 @@ API return status booth in body and header
 You can extend the API by plugins
 see plgJapiUsers as basic exemple
 
-This is only a test to show the general concept
+This is a test to show the general concept
